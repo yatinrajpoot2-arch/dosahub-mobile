@@ -12,6 +12,12 @@
     },
     "android": {
       "package": "com.dosahub.app"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "dbe1f4e6-be4f-4929-aa65-36af1927f335"
+      }
+    },
+    "owner": "yatinrajpo59864"
   }
 }
